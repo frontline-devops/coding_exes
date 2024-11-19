@@ -1,3 +1,6 @@
+# Run the following Terraform and test that the container is running
+# Create a module that will allow us to specify the image name and the port to expose
+
 terraform {
  required_providers {
    docker = {
