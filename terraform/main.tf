@@ -1,5 +1,5 @@
-# Run the following Terraform and test that the container is running
-# Create a module that will allow us to specify the image name and the port to expose
+# 1. Run the following Terraform and walk through what it is creating
+# 2. Create a module that will allow us to specify the image name and external port
 
 terraform {
  required_providers {
